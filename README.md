@@ -1,7 +1,7 @@
 # remote-proxy-server
 Remote proxy server used for NativeScript debugging
 
-Node-Inspector changes
+**Node-Inspector changes**
 ```
 Debugger.prototype._setupConnection = function() {
   var connection = Net.createConnection(this._port, "SERVER_ADDRESS"),
@@ -25,3 +25,20 @@ Debugger.prototype._onConnectionOpen = function() {
   this._connection.write("{\"handshake-key\":\"xervca04kxz4mgja5d4jme59a8\"}");
   this.emit('connect');
 };
+```
+
+**Samples**
+
+[![Emulator](https://appetize.io/images/nexus5_black.png)](https://appetize.io/embed/uvccy3u5y273t1rfg45u3wrqbg?device=nexus5&scale=75&orientation=portrait&osVersion=6.0)
+
+
+**Other Resources**
+
+https://github.com/node-inspector/node-inspector
+
+https://github.com/node-inspector/node-inspector/wiki/Developer's-Guide
+
+https://github.com/v8/v8/wiki/Debugging-Protocol
+
+https://github.com/buggerjs/bugger-v8-client/blob/master/PROTOCOL.md
+
