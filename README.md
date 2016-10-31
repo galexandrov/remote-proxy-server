@@ -29,7 +29,8 @@ Debugger.prototype._onConnectionOpen = function() {
 
 **Samples**
 
-[![Emulator](https://appetize.io/images/nexus5_black.png)](https://appetize.io/embed/uvccy3u5y273t1rfg45u3wrqbg?device=nexus5&scale=75&orientation=portrait&osVersion=6.0)
+[![Emulator](https://raw.githubusercontent.com/galexandrov/remote-proxy-server/master/content/img/phone.png)](https://appetize.io/embed/uvccy3u5y273t1rfg45u3wrqbg?device=nexus5&scale=75&orientation=portrait&osVersion=6.0)
+[![Video](https://raw.githubusercontent.com/galexandrov/remote-proxy-server/master/content/img/video.png)](http://screencast.com/t/euk2F9WhbyeL)
 
 
 **Other Resources**
